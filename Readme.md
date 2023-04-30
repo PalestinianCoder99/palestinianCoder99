@@ -21,7 +21,7 @@
 <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
 <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" />
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe_XD-FF26BE?style=flat-square&logo=adobe-xd&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>

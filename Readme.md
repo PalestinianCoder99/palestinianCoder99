@@ -4,26 +4,24 @@
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-<img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img alt="GetX" src="https://img.shields.io/badge/-GetX-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-<img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe_XD-FF26BE?style=flat-square&logo=adobe-xd&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" />
+<img alt="GetX" src="https://img.shields.io/badge/-GetX-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img alt="Xcode" src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>

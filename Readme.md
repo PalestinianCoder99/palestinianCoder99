@@ -15,7 +15,11 @@
 
 <h3>Trophies 🏆:</h3>
 <p align="left">
-  <a href="https://github-profile-trophy.vercel.app/?username=emadbeltaje&text={darkMode ? 'dark' : 'light'}&color={darkMode ? '#000000' : '#ffffff'}" alt="emadbeltaje" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=emadbeltaje&text=dark&color=#000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=emadbeltaje&text=light&color=#ffffff">
+    <img src="https://github-profile-trophy.vercel.app/?username=emadbeltaje" alt="emadbeltaje" />
+  </picture>
 </p>
 
 <h3>Open source projects 🌟:</h3>

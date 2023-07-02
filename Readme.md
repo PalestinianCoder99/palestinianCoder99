@@ -15,11 +15,9 @@
 
 <h3>Trophies 🏆:</h3>
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=emadbeltaje&theme=onedark">
-    <img src="https://github-profile-trophy.vercel.app/?username=emadbeltaje" alt="emadbeltaje" />
-  </picture>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emadbeltaje" alt="emadbeltaje" /></a>
 </p>
+ </p>
 
 <h3>Open source projects 🌟:</h3>
 <table>
@@ -53,49 +51,40 @@
   </tbody>
 </table> 
 
+
+
 <h3>Things I code with 👨🏻‍💻:</h3>
-<p align="left">
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" />
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-<img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="Xcode" src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
-<img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img alt="AndroidStudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-<img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img alt="AdobeXD" src="https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+  <p align="left">
+    <a href="https://badgen.net/badge/Dart/0175C2?icon=dart&label">Dart</a>
+     <a href="https://badgen.net/badge/Flutter/02569B?icon=flutter&label">Flutter</a> 
+     <a href="https://badgen.net/badge/Java/007396?icon=java&label">Java</a>  
+     <a href="https://badgen.net/badge/Kotlin/0095D5?icon=kotlin&label">Kotlin</a> 
+      <a href="https://badgen.net/badge/JavaScript/F7DF1E?icon=javascript&label">JavaScript</a>  
+      <a href="https://badgen.net/badge/Node.js/43853D?icon=node&label">Node.js</a>
+        <a href="https://badgen.net/badge/Express.js/404d59?icon=express&label">Express.js</a> 
+         <a href="https://badgen.net/badge/Firebase/039BE5?icon=firebase&label">Firebase</a>
+           <a href="https://badgen.net/badge/JSON/000000?icon=json&label">JSON</a> 
+            <a href="https://badgen.net/badge/Postman/FF6C37?icon=postman&label">Postman</a>  
+            <a href="https://badgen.net/badge/GitHub/12100E?icon=github&label">GitHub</a>
+              <a href="https://badgen.net/badge/Git/F05032?icon=git&label">Git</a> 
+               <a href="https://badgen.net/badge/Xcode/1575F9?icon=xcode&label">Xcode</a>
+                 <a href="https://badgen.net/badge/VSCode/007ACC?icon=visual-studio-code&label">VSCode</a> 
+                  <a href="https://badgen.net/badge/AndroidStudio/3DDC84?icon=android-studio&label">Android Studio</a>
+                    <a href="https://badgen.net/badge/WebStorm/000000?icon=webstorm&label">WebStorm</a>  <a href="https://badgen.net/badge/MongoDB/4ea94b?icon=mongodb&label">MongoDB</a>
+                      <a href="https://badgen.net/badge/MySQL/00f?icon=mysql&label">MySQL</a>  
+                      <a href="https://badgen.net/badge/AdobeXD/FF26BE?icon=adobe-xd&label">Adobe XD</a>  <a href="https://badgen.net/badge/Figma/F24E1E?icon=figma&label">Figma</a>
+                        </p>
+
+
 
 
 <h3>Streak 🔥:</h3>
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en" alt="emadbeltaje" />
-  </picture>&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=emadbeltaje&show_icons=true&locale=en&layout=compact&theme=dark">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=emadbeltaje&show_icons=true&locale=en&layout=compact" alt="emadbeltaje" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en" alt="emadbeltaje" />&nbsp;&nbsp;&nbsp;
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=emadbeltaje&show_icons=true&locale=en&layout=compact" alt="emadbeltaje" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&theme=dark">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&" alt="emadbeltaje" />
-  </picture>
-</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&" alt="emadbeltaje" /></p>
 
 
 <h3>Where to find me 🗺️</h3>

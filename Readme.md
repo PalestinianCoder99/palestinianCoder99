@@ -1,9 +1,10 @@
 
 
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Emad, Fullstack developer from <b>Palesitne, Gaza</b>.
+<p>Welcome to my page 👋, </br> I'm Emad, Fullstack developer from <b>🇵🇸 Palesitne, Gaza</b>.<p/>
 
 
 <p align="left">
@@ -12,13 +13,14 @@
 </p>
 
 
+<h3>Trophies 🏆:</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emadbeltaje" alt="emadbeltaje" /></a>
 </p>
 
 
  </p>
-<h3>Things I code with</h3>
+<h3>Things I code with 👨🏻‍💻:</h3>
 <p align="left">
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -43,7 +45,7 @@
 </p>
 
 
-<h3>Open source projects</h3>
+<h3>Open source projects 🌟:</h3>
 <table>
   <thead align="left">
     <tr border: none;>
@@ -77,7 +79,7 @@
 
 
 
-<h3>Streak</h3>
+<h3>Streak 🔥:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en" alt="emadbeltaje" />&nbsp;&nbsp;&nbsp;
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=emadbeltaje&show_icons=true&locale=en&layout=compact" alt="emadbeltaje" />
@@ -86,3 +88,12 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&" alt="emadbeltaje" /></p>
 
 
+<h3>Where to find me 🗺️</h3>
+
+[![Facebook](https://img.shields.io/badge/facebook-emadbeltaje-blue.svg)](https://www.facebook.com/emadbeltaje) [![WhatsApp](https://img.shields.io/badge/whatsapp-+972595195630-green.svg)](https://wa.me/972595195630) [![Email](https://img.shields.io/badge/email-emadbeltaje@gmail.com-red.svg)](mailto:emadbeltaje@gmail.com) [![Phone](https://img.shields.io/badge/phone-+972595159630-orange.svg)](tel:+972595159630) [![Telegram](https://img.shields.io/badge/telegram-EmadBeltaje-blueviolet.svg)](https://t.me/EmadBeltaje)
+
+
+[![Facebook](https://img.shields.io/badge/facebook-emadbeltaje-blue.svg)](https://www.facebook.com/emadbeltaje) [
+![Telegram](https://img.shields.io/badge/telegram-EmadBeltaje-blueviolet.svg)](tel:+972595159630) [
+![WhatsApp](https://img.shields.io/badge/whatsapp-+972595195630-green.svg)](https://wa.me/972595195630) [
+![Email](https://img.shields.io/badge/email-emadbeltaje@gmail.com-red.svg)](mailto:emadbeltaje@gmail.com) 

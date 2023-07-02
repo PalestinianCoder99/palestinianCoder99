@@ -54,10 +54,10 @@
     </tr>
     <tr>
       <td><a href="https://github.com/EmadBeltaje/flutter_slidable"><b>Flutter Slidable</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter_slidable.git?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter_slidable.git?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter_slidable.git?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/EmadBeltaje/flutter_slidable.git?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>

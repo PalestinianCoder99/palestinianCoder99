@@ -1,14 +1,16 @@
 
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
 <p>Welcome to my page! </br> I'm Emad, Fullstack developer from <b>Palesitne, Gaza</b>.
 
-<p align="left"> 
-  <img src="https://img.shields.io/github/followers/EmadBeltaje?color=1f222e&label=Followers&style=social" alt="EmadBeltaje" /> &nbsp;
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=emadbeltaje&label=Profile%20views&color=0e75b6&style=flat" alt="emadbeltaje" /> </p>
 
+<p align="left">
+  <img src="https://img.shields.io/github/followers/EmadBeltaje?color=1f222e&label=Followers&style=social" alt="EmadBeltaje" /> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=emadbeltaje&label=Profile%20views&color=0e75b6&style=flat" alt="emadbeltaje" />
 </p>
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emadbeltaje" alt="emadbeltaje" /></a>
@@ -17,7 +19,7 @@
 
  </p>
 <h3>Things I code with</h3>
-<p align="center">
+<p align="left">
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -43,7 +45,7 @@
 
 <h3>Open source projects</h3>
 <table>
-  <thead align="center">
+  <thead align="left">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
@@ -76,7 +78,7 @@
 
 
 <h3>Streak</h3>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en" alt="emadbeltaje" />&nbsp;&nbsp;&nbsp;
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=emadbeltaje&show_icons=true&locale=en&layout=compact" alt="emadbeltaje" />
 </p>

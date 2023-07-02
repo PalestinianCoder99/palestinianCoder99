@@ -80,11 +80,22 @@
 
 <h3>Streak 🔥:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en" alt="emadbeltaje" />&nbsp;&nbsp;&nbsp;
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=emadbeltaje&show_icons=true&locale=en&layout=compact" alt="emadbeltaje" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en" alt="emadbeltaje" />
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=emadbeltaje&show_icons=true&locale=en&layout=compact&theme=dark">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=emadbeltaje&show_icons=true&locale=en&layout=compact" alt="emadbeltaje" />
+  </picture>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&" alt="emadbeltaje" /></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&theme=dark">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&" alt="emadbeltaje" />
+  </picture>
+</p>
 
 
 <h3>Where to find me 🗺️</h3>

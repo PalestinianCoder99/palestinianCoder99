@@ -25,7 +25,8 @@
 <img alt="AdobeXD" src="https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
+
+## Best Projects
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -34,7 +35,6 @@
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
@@ -43,24 +43,23 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter_getx_template?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter_getx_template?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter_getx_template?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/EmadBeltaje/flutter_getx_template?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/EmadBeltaje/firebase_cloud_functions_emulator"><b>Firebase Cloud Functions Emulator</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/firebase_cloud_functions_emulator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/firebase_cloud_functions_emulator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/firebase_cloud_functions_emulator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/EmadBeltaje/firebase_cloud_functions_emulator?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/EmadBeltaje/flutter_slidable"><b>Flutter Slidable</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
+
+
 
 
 

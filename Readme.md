@@ -4,9 +4,11 @@
 
 <p>Welcome to my page! </br> I'm Emad, Fullstack developer from <b>Palesitne, Gaza</b>.
 
-<p align="left"> <img src="https://img.shields.io/github/followers/EmadBeltaje?color=1f222e&label=Followers&style=social" alt="EmadBeltaje" /> </p>
+<p align="left"> 
+  <img src="https://img.shields.io/github/followers/EmadBeltaje?color=1f222e&label=Followers&style=social" alt="EmadBeltaje" /> &nbsp;
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=emadbeltaje&label=Profile%20views&color=0e75b6&style=flat" alt="emadbeltaje" /> </p>
 
-![](https://komarev.com/ghpvc/?username=emadbeltaje)
+</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emadbeltaje" alt="emadbeltaje" /></a>

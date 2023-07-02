@@ -15,7 +15,7 @@
 
 <h3>Trophies 🏆:</h3>
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emadbeltaje&text=dark&color=000000" alt="emadbeltaje" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emadbeltaje&theme=onedark" alt="emadbeltaje" /></a>
 </p>
 
 <h3>Open source projects 🌟:</h3>

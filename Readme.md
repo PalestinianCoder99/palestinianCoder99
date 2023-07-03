@@ -54,26 +54,28 @@
 
 
 <h3>Things I code with 👨🏻‍💻:</h3>
-  <p align="left">
-    <a href="https://badgen.net/badge/Dart/0175C2?icon=dart&label">Dart</a>
-     <a href="https://badgen.net/badge/Flutter/02569B?icon=flutter&label">Flutter</a> 
-     <a href="https://badgen.net/badge/Java/007396?icon=java&label">Java</a>  
-     <a href="https://badgen.net/badge/Kotlin/0095D5?icon=kotlin&label">Kotlin</a> 
-      <a href="https://badgen.net/badge/JavaScript/F7DF1E?icon=javascript&label">JavaScript</a>  
-      <a href="https://badgen.net/badge/Node.js/43853D?icon=node&label">Node.js</a>
-        <a href="https://badgen.net/badge/Express.js/404d59?icon=express&label">Express.js</a> 
-         <a href="https://badgen.net/badge/Firebase/039BE5?icon=firebase&label">Firebase</a>
-           <a href="https://badgen.net/badge/JSON/000000?icon=json&label">JSON</a> 
-            <a href="https://badgen.net/badge/Postman/FF6C37?icon=postman&label">Postman</a>  
-            <a href="https://badgen.net/badge/GitHub/12100E?icon=github&label">GitHub</a>
-              <a href="https://badgen.net/badge/Git/F05032?icon=git&label">Git</a> 
-               <a href="https://badgen.net/badge/Xcode/1575F9?icon=xcode&label">Xcode</a>
-                 <a href="https://badgen.net/badge/VSCode/007ACC?icon=visual-studio-code&label">VSCode</a> 
-                  <a href="https://badgen.net/badge/AndroidStudio/3DDC84?icon=android-studio&label">Android Studio</a>
-                    <a href="https://badgen.net/badge/WebStorm/000000?icon=webstorm&label">WebStorm</a>  <a href="https://badgen.net/badge/MongoDB/4ea94b?icon=mongodb&label">MongoDB</a>
-                      <a href="https://badgen.net/badge/MySQL/00f?icon=mysql&label">MySQL</a>  
-                      <a href="https://badgen.net/badge/AdobeXD/FF26BE?icon=adobe-xd&label">Adobe XD</a>  <a href="https://badgen.net/badge/Figma/F24E1E?icon=figma&label">Figma</a>
-                        </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
 
 
 
@@ -89,4 +91,21 @@
 
 <h3>Where to find me 🗺️</h3>
 
-[![Facebook](https://img.shields.io/badge/facebook-emadbeltaje-blue.svg)](https://www.facebook.com/emadbeltaje) [![Telegram](https://img.shields.io/badge/telegram-EmadBeltaje-%232AABEE.svg)](https://t.me/EmadBeltaje) [![Phone](https://img.shields.io/badge/phone-+972595159630-orange.svg)](https://wa.me/972595195630) [![Email](https://img.shields.io/badge/email-emadbeltaje@gmail.com-red.svg)](mailto:emadbeltaje@gmail.com) [![Discord](https://img.shields.io/badge/discord-EmadBeltaje%236115-%237289DA.svg)](https://discord.com/users/EmadBeltaje#6115)
+<h3>Contact Me</h3>
+<p align="left">
+<a href="mailto:emadbeltaje@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/972595195630" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+   <a href="https://facebook.com/EmadBeltaje" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://t.me/EmadBeltaje" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/EmadBeltaje#6115" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>

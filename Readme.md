@@ -13,14 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=emadbeltaje&label=Profile%20views&color=0e75b6&style=flat" alt="emadbeltaje" />
 </p>
 
-<br/>
-<h3>Trophies 🏆:</h3>
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=emadbeltaje&theme=onedark&margin-h=15&margin-w=15&column=4">
-    <img src="https://github-profile-trophy.vercel.app/?username=emadbeltaje&margin-w=15&margin-h=15&column=4" alt="emadbeltaje" />
-  </picture>
-</p>
 
 <br/>
 <h3>Open source projects 🌟:</h3>
@@ -54,6 +46,18 @@
     </tr>
   </tbody>
 </table> 
+
+
+<br/>
+<h3>Trophies 🏆:</h3>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=emadbeltaje&theme=onedark&margin-h=15&margin-w=15&column=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=emadbeltaje&margin-w=15&margin-h=15&column=4" alt="emadbeltaje" />
+  </picture>
+</p>
+
+
 
 <br/>
 <h3>Things I code with 👨🏻‍💻:</h3>

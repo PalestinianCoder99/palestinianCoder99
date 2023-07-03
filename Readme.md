@@ -17,8 +17,8 @@
 <h3>Trophies 🏆:</h3>
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=emadbeltaje&theme=onedark">
-    <img src="https://github-profile-trophy.vercel.app/?username=emadbeltaje" alt="emadbeltaje" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=emadbeltaje&theme=onedark&margin-h=15&margin-w=15&row=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=emadbeltaje&margin-w=15&margin-h=15&row=4" alt="emadbeltaje" />
   </picture>
 </p>
 

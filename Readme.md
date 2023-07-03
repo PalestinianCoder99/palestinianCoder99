@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=emadbeltaje&label=Profile%20views&color=0e75b6&style=flat" alt="emadbeltaje" />
 </p>
 
-
+<br/>
 <h3>Trophies 🏆:</h3>
 <p align="left">
   <picture>
@@ -22,6 +22,7 @@
   </picture>
 </p>
 
+<br/>
 <h3>Open source projects 🌟:</h3>
 <table>
   <thead align="left">
@@ -54,6 +55,7 @@
   </tbody>
 </table> 
 
+<br/>
 <h3>Things I code with 👨🏻‍💻:</h3>
 <p align="left">
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -64,14 +66,11 @@
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" />
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-<img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="Xcode" src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
 <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="AndroidStudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-<img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="AdobeXD" src="https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white" />
@@ -79,6 +78,7 @@
 </p>
 
 
+<br/>
 <h3>Streak 🔥:</h3>
 <p align="left">
   <picture>
@@ -99,6 +99,7 @@
 </p>
 
 
+<br/>
 <h3>Where to find me 🗺️</h3>
 <p align="left">
 <a href="mailto:emadbeltaje@gmail.com" target="_blank">
